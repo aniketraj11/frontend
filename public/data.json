@@ -1,0 +1,266 @@
+{
+  "data": {
+    "data": {
+      "_id": "59b7557d4f25447ec6fca55e",
+      "course_id": "1",
+      "lesson_id": "59b755664f25447ec6fca55d",
+      "questions": [
+        {
+          "_id": "9686",
+          "answer": "option_4",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p>Umbilical arteries carry deoxygenated blood from the heart during the fetal period.</p> <p>Arteries&nbsp;carry oxygenated blood away from the heart, with the&nbsp;exception&nbsp;of the&nbsp;<strong>pulmonary&nbsp;and&nbsp;umbilical&nbsp;arteries that&nbsp;carry&nbsp;deoxygenated blood.</strong></p>",
+              "type": "html"
+            }
+          ],
+          "answered_option_1": 3429,
+          "answered_option_2": 11882,
+          "answered_option_3": 3637,
+          "answered_option_4": 16418,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page nos 163 and 164",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9678",
+          "option_1": "Arteries always carry oxygenated blood",
+          "option_2": "Pulmonary artery carries oxygenated blood",
+          "option_3": "Arteries have valves to allow unidirectional flow",
+          "option_4": "Umbilical artery carries deoxygenated blood",
+          "root_subject_id": "58ef22f47f25450340d98691",
+          "tags": ["#AIIMS"],
+          "title": "Which of the following statements is true regarding arteries?"
+        },
+        {
+          "_id": "9687",
+          "answer": "option_4",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p><strong>Arterioles </strong>contribute to the major part of <strong>peripheral resistance to blood flow. </strong></p> <p>The smallest arteries of the muscular type are called arterioles.&nbsp;They have a tunica media that is relatively thicker than the tunica adventitia. Arterioles cause the <strong>largest drop in blood pressure before the blood flows into the tissue capillary beds</strong>. They&nbsp;are densely innervated by sympathetic fibres.&nbsp;Contraction of arterioles is mainly regulated by local vasoactive and metabolic factors, but central mechanisms also play a role.</p>",
+              "type": "html"
+            }
+          ],
+          "answered_option_1": 11662,
+          "answered_option_2": 7812,
+          "answered_option_3": 5789,
+          "answered_option_4": 10175,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page no 164",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            },
+            {
+              "_id": "590842fd7f25457b54a7ccc6",
+              "authors": ["Susan Standring PhD DSc"],
+              "text": "Page nos 127 and 128",
+              "theight": "500",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5bd633b2712048c990509320bf56855bx389x500.JPEG",
+              "title": "Gray's Anatomy: The Anatomical Basis of Clinical Practice, 41e",
+              "twidth": "389"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9679",
+          "option_1": "Elastic arteries",
+          "option_2": "Small muscular arteries",
+          "option_3": "Capillaries",
+          "option_4": "Muscular arterioles",
+          "root_subject_id": "58ef22f47f25450340d98692",
+          "tags": ["#NEETPG"],
+          "title": "Which of the following vessels are responsible for peripheral vascular resistance?"
+        },
+        {
+          "_id": "9697",
+          "answer": "option_1",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p>The <strong>r</strong><strong>ight upper limb</strong> is drained by the <strong>r</strong><strong>ight</strong> <strong>lymphatic</strong> <strong>duct</strong>, not the thoracic duct.</p> <p>The filtered lymph passes through larger lymphatics and eventually collect into two large trunks, the <strong>thoracic</strong> <strong>duct</strong> and <strong>right</strong> <strong>lymphatic</strong> <strong>duct</strong>, which in turn drain into the <strong>brachiocephalic veins</strong>.</p> <ul> <li><strong>Thoracic duct</strong> drains both lower limbs,&nbsp;left upper limb, abdomen, and left halves of thorax, and head and neck regions (areas shaded green in the image).</li> <li><strong>Right lymphatic duct</strong> drains&nbsp;right upper limb,&nbsp;and right halves of thorax, and head and neck regions (areas shaded blue in the image).&nbsp;</li> </ul>",
+              "type": "html"
+            },
+            {
+              "_id": 2,
+              "body_html": "",
+              "multi_thumbnail": [
+                {
+                  "_id": 1,
+                  "tauthor": "Akshay Ambatt",
+                  "theight": "1658",
+                  "tlicense": "Marrow Copyright",
+                  "tsource": "Own",
+                  "twidth": "1280",
+                  "url": "https://dhmbxeygs57ff.cloudfront.net/uploads/7ded001ab6264452ba0c8b4225f6dab2x1280x1658.JPEG"
+                }
+              ],
+              "type": "image"
+            }
+          ],
+          "answered_option_1": 15314,
+          "answered_option_2": 4822,
+          "answered_option_3": 9168,
+          "answered_option_4": 6231,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page no 191",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9689",
+          "option_1": "Right upper limb",
+          "option_2": "Right lower limb",
+          "option_3": "Left upper limb",
+          "option_4": "Left lower limb",
+          "root_subject_id": "58ef22f47f25450340d98693",
+          "tags": ["#recentNEET"],
+          "title": "Which of the following parts are not drained by the thoracic duct?"
+        },
+        {
+          "_id": "9698",
+          "answer": "option_2",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p>Lymph capillaries are wider than blood capillaries.</p> <p>Lymph capillaries begin blindly (tips are closed) in the tissue spaces and form intricate networks. The endothelial wall is thin and is permeable to substances of much greater molecular size. They have relatively lower pressure than blood capillaries.</p>",
+              "type": "html"
+            }
+          ],
+          "answered_option_1": 9740,
+          "answered_option_2": 11327,
+          "answered_option_3": 5855,
+          "answered_option_4": 7920,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page no 190",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9690",
+          "option_1": "Are closed at their tips",
+          "option_2": "Narrower than blood capillaries",
+          "option_3": "Wall consists of thin endothelium",
+          "option_4": "Lower pressure than blood capillaries",
+          "root_subject_id": "58ef22f47f25450340d98691",
+          "tags": [],
+          "title": "Which of the following statements regarding lymph capillaries is false?"
+        },
+        {
+          "_id": "9700",
+          "answer": "option_3",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p>There are 8 pairs of spinal nerves in the cervical region.</p> <p><strong>Cerebrospinal nervous system</strong>&nbsp;includes <strong>12 pairs of cranial nerves</strong> and <strong>31 pairs of spinal nerves.</strong></p> <p>The 31 Spinal nerves are distributed as follows:</p> <ul> <li>Cervical nerves (8 pairs)</li> <li>Thoracic nerves (12 pairs)</li> <li>Lumbar nerves (5 pairs)</li> <li>Sacral nerves (5 pairs)</li> <li>Coccygeal nerves (1 pair)</li> </ul>",
+              "type": "html"
+            }
+          ],
+          "answered_option_1": 5683,
+          "answered_option_2": 11385,
+          "answered_option_3": 17792,
+          "answered_option_4": 972,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page no 211",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9692",
+          "option_1": "6 pairs",
+          "option_2": "7 pairs",
+          "option_3": "8 pairs",
+          "option_4": "9 pairs",
+          "root_subject_id": "58ef22f47f25450340d98692",
+          "tags": ["#Numbers"],
+          "title": "The number of spinal nerves present in cervical region are ______"
+        },
+        {
+          "_id": "9701",
+          "answer": "option_2",
+          "answer_desc": [
+            {
+              "_id": 1,
+              "body_html": "<p><strong>Spinal ganglia consists of pseudounipolar neurons.</strong></p> <p>Neurons are classified based on the number of processes as:</p> <ul> <li><strong>Unipolar</strong>, e.g., mesencephalic nucleus</li> <li><strong>Pseudo</strong>-<strong>unipolar</strong>, e.g., sensory ganglia or spinal ganglia.</li> <li><strong>Bipolar</strong>, e.g., spiral and vestibular ganglia, and bipolar neurons of the retina.</li> <li><strong>Multipolar</strong>, e.g., neurons in cerebrum and cerebellum.</li> </ul>",
+              "type": "html"
+            },
+            {
+              "_id": 2,
+              "body_html": "",
+              "multi_thumbnail": [
+                {
+                  "_id": 1,
+                  "tauthor": "wikimedia commons",
+                  "theight": "600",
+                  "title": "Types of Neurons",
+                  "tlicense": "Creative Commons: Attribution",
+                  "tsource": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Figure_35_01_04.jpg",
+                  "twidth": "1117",
+                  "url": "https://dhmbxeygs57ff.cloudfront.net/uploads/84e13f69d84f4406b6a046e24f377fa3x1117x600.JPEG"
+                }
+              ],
+              "type": "image"
+            }
+          ],
+          "answered_option_1": 10190,
+          "answered_option_2": 12509,
+          "answered_option_3": 7478,
+          "answered_option_4": 5399,
+          "book_reference": [
+            {
+              "_id": "59b7580e4f25447ec6fca55f",
+              "authors": ["BD Chaurasia"],
+              "text": "Page no 214",
+              "theight": "225",
+              "thumbnail": "https://cdn1.dailyrounds.org/uploads/5ddc61e7f6b94c54a75ff1c9b1ebb1c2x225x225.JPEG",
+              "title": "BD Chaurasia's Handbook of General Anatomy - 5th Edition",
+              "twidth": "225"
+            }
+          ],
+          "bookmarked": 0,
+          "display_id": "MA9693",
+          "mcq_type": 0,
+          "option_1": "Spiral ganglia",
+          "option_2": "Spinal ganglia",
+          "option_3": "Vestibular ganglia",
+          "option_4": "Retina",
+          "root_subject_id": "58ef22f47f25450340d98693",
+          "tags": [],
+          "title": "Bipolar neurons are present in all of the following except ______"
+        }
+      ]
+    },
+    "total": 6
+  },
+  "status": "success"
+}
